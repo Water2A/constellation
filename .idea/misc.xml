@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/drawable/dock.xml" value="0.38229166666666664" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/drawable/footer_star_bg.xml" value="0.38229166666666664" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/drawable/main_rb_luck.xml" value="0.38229166666666664" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/drawable/main_rb_me.xml" value="0.38229166666666664" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/drawable/main_rb_parnter.xml" value="0.38229166666666664" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/drawable/main_rb_star.xml" value="0.38229166666666664" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/drawable/main_rbtxt.xml" value="0.38229166666666664" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/drawable/parnter_man.xml" value="0.38229166666666664" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/drawable/parnter_woman.xml" value="0.38229166666666664" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/activity_guide.xml" value="0.25" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/activity_luck_analysis.xml" value="0.25" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/activity_parnter_analysis.xml" value="0.25" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/activity_star_analysis.xml" value="0.25" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/activity_welcome.xml" value="0.25" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/footer_star_analysis.xml" value="0.22" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/fragment_luck.xml" value="0.25" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/fragment_me.xml" value="0.25" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/fragment_partner.xml" value="0.25" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/fragment_star.xml" value="0.25" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/item_luck_gv.xml" value="0.25" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/item_luckanalysis_lv.xml" value="0.22" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/item_parnter_sp.xml" value="0.25" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/item_star_analysis.xml" value="0.25" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/item_star_gv.xml" value="0.25" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/me_dialog.xml" value="0.25" />
+        <entry key="..\:/Android/AndroidKeep/constellation/app/src/main/res/layout/title_layout.xml" value="0.36614583333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
